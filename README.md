@@ -1,2 +1,2 @@
-# Planets-
+# Planets!
 A random planet generator!
